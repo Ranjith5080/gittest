@@ -1,0 +1,22 @@
+C12345678,test1,xyz,abc,Washington,DC,20001,David,Mark,J,Mr,II,2018-09-24 14:38:49.008392+00,,f,2018-09-24 14:38:49.008421+00,text,1,-,f,-,-,-,-,
+C76543210,test1,1st street,Noma,Washington,DC,20001,Smith,John,J,Mr,II,2018-10-04 13:08:20.116702+00,,f,2018-10-04 13:08:20.116735+00,text,10,msm,f,-,-,-,-,
+C76543210,test1,1st street,Noma,Washington,DC,20001,Smith,John,J,Mr,II,2018-10-10 19:36:41.199661+00,,f,2018-10-10 19:36:41.199696+00,text,11,msm,f,-,-,-,-,
+C76543210,test1,1st street,Noma,Washington,DC,20001,Smith,John,J,Mr,II,2018-10-10 19:37:44.153348+00,,f,2018-10-10 19:37:44.153379+00,text,12,msm,f,-,-,-,-,
+C76543210,test1,1st street,Noma,Washington,DC,20001,Smith,John,J,Mr,II,2018-10-10 19:40:46.239045+00,,f,2018-10-10 19:40:46.239087+00,text,13,msm,f,-,-,-,-,
+C01234567,test1,xyz,abc,Washington,DC,20001,David,Mark,J,Mr,II,2018-09-25 15:01:48.372267+00,,f,2018-10-15 03:18:27.355759+00,text,9,-,t,-,-,-,-,
+C76543210,test1,1st street,Noma,Washington,DC,20001,Smith,John,J,Mr,II,2018-10-15 03:18:53.464734+00,,f,2018-10-15 03:18:53.464768+00,text,14,msm,f,-,-,-,-,
+C76543210,test1,1st street,Noma,Washington,DC,20001,Smith,John,J,Mr,II,2018-10-16 18:08:49.376478+00,,f,2018-10-16 18:08:49.376511+00,text,15,msm,f,-,-,-,-,
+C76543210,test15,1st street,Noma,Washington,DC,20001,Smith,John,J,Mr,II,2018-10-17 02:24:49.500055+00,,f,2018-10-17 02:24:49.500089+00,text,16,msm,f,-,-,-,-,
+C01234567,test16,1st street,Noma,Washington,DC,20001,Smith,John,J,Mr,II,2018-10-17 03:13:35.249422+00,,f,2018-10-17 14:57:43.065488+00,text,17,msm,t,-,-,-,-,
+C01234567,test16,1st street,Noma,Washington,DC,20001,Smith,John,J,Mr,II,2018-10-17 19:03:40.06531+00,,f,2018-10-17 19:03:40.065343+00,text,18,msm,f,-,-,-,-,
+C01234567,test16,1st street,Noma,Washington,DC,20001,Smith,John,J,Mr,II,2018-10-17 19:03:54.666383+00,,f,2018-10-17 19:03:54.666418+00,text,19,msm,f,-,-,-,-,
+C01234567,test16,1st street,Noma,Washington,DC,20001,Smith,John,J,Mr,II,2018-10-17 19:05:59.551036+00,,f,2018-10-17 19:05:59.551074+00,text,20,msm,f,-,-,-,-,
+C01234567,test16,1st street,Noma,Washington,DC,20001,Smith,John,J,Mr,II,2018-10-17 19:09:35.886702+00,,f,2018-10-17 19:09:35.886734+00,text,21,msm,f,-,-,-,-,
+C00022368,"NATIONAL ASSOCIATION OF CHAIN DRUG STORES, INC. POLITICAL ACTION COMMITTEE",Street 17,Northeast,Washington DC,DC,2002,Michael,David,,Mr,II,2018-10-26 18:08:15.434875+00,,f,2018-10-26 18:08:15.434913+00,text,23,msm,f,-,-,mdavid@test.com,M David,
+C00022368,"NATIONAL ASSOCIATION OF CHAIN DRUG STORES, INC. POLITICAL ACTION COMMITTEE",Street 17,Northeast,Washington DC,DC,2002,Michael,David,M,Mr,II,2018-11-14 04:49:32.376219+00,,f,2018-11-14 04:49:32.376258+00,text,24,msm,t,-,-,mdavid@test.com,M David,""
+C00022368,"NATIONAL ASSOCIATION OF CHAIN DRUG STORES, INC. POLITICAL ACTION COMMITTEE",Street 17,Northeast,Washington DC,DC,2002,Michael,David,M,Mr,II,2018-11-14 06:12:09.385431+00,,f,2018-11-14 06:12:09.385467+00,text,25,msm,t,-,-,mdavid@test.com,M David,""
+C00022368,"NATIONAL ASSOCIATION OF CHAIN DRUG STORES, INC. POLITICAL ACTION COMMITTEE",Street 17,Northeast,Washington DC,DC,2002,Michael,David,M,Mr,II,2018-11-14 06:23:34.767539+00,,f,2018-11-14 06:23:34.767574+00,text,26,msm,f,-,-,mdavid@test.com,M David,""
+C00220269,"NATIONAL ASSOCIATION OF CHAIN DRUG STORES, INC. POLITICAL ACTION COMMITTEE",Street 17,Northeast,Washington DC,DC,2002,Michael,David,M,Mr,II,2018-11-14 06:26:59.682225+00,,f,2018-11-14 06:26:59.682259+00,text,27,msm,f,-,-,mdavid@test.com,M David,""
+C01234555,"NATIONAL ASSOCIATION OF CHAIN DRUG STORES, INC. POLITICAL ACTION COMMITTEE",Street 17,Northeast,Washington DC,DC,2002,Michael,David,M,Mr,II,2018-11-14 14:52:39.821145+00,,f,2018-11-14 15:27:25.612296+00,text,29,msm,f,-,-,mdavid@test.com,M David,""
+C01234567,test16,1st street,Noma,Washington,DC,20001,Smith,John,J,Mr,II,2018-10-17 19:10:34.579898+00,,f,2018-11-14 15:51:41.955159+00,text,22,msm,t,-,-,-,-,""
+C01234567,test1,xyz,abc,Washington,DC,20001,David,Mark,J,Mr,II,2018-11-14 14:52:00.303919+00,,f,2018-11-16 01:19:55.606201+00,text,28,msm,t,-,-,mdavid@test.com,M David,""
